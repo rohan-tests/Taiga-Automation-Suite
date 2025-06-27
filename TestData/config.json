@@ -1,0 +1,8 @@
+{
+    "baseUrl" : "https://tree.taiga.io/login",
+    "username" : "jblake.dev",
+    "password" : "Jb2025Practice#",
+    "baseApiUrl" : "https://api.taiga.io",
+    "projectId" : 1700058,
+    "boardReset" : false
+}
