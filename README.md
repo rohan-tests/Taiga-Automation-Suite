@@ -47,16 +47,16 @@ This project tests real Kanban board features on the Taiga Agile Project Managem
 
 ## 🧾 Project Structure
 
-Taiga-Automation-Suite/
-│
-├── Features/             → Gherkin-based .feature files
-├── StepDefinitions/      → Scenario step implementations
-├── Pages/                → Page Object Model classes
-├── Utilities/            → API Helper, Config Reader, Extent Wrapper
-├── Reports/              → Latest ExtentReport.html
-├── Screenshots/          → Captures for failed tests
-├── Docs/                 → Manual test cases + traceability matrix
-└── config.json           → Test config controls
+Taiga-Automation-Suite/  
+│  
+├── Features/             → Gherkin-based .feature files  
+├── StepDefinitions/      → Scenario step implementations  
+├── Pages/                → Page Object Model classes  
+├── Utilities/            → API Helper, Config Reader, Extent Wrapper  
+├── Reports/              → Latest ExtentReport.html  
+├── Screenshots/          → Captures for failed tests  
+├── Docs/                 → Manual test cases + traceability matrix  
+└── config.json           → Test config controls  
 
 ---
 
